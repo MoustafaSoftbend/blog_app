@@ -48,3 +48,6 @@ h1, h2, h3, h4 {
 .page-header h1 a:hover {
     color: black;
 }
+.comment {
+    margin: 20px 0px 20px 20px;
+}
